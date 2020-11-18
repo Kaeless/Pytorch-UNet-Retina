@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\BUAA_NetDisk\北航云盘\曹景龙_ZY2003701\大作业文件夹\数字图像处理\眼底血管分割-pytorch实现\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
