@@ -9,3 +9,4 @@ opencv-python==4.3.12
 ## 可能出现的问题
 在pycharm当中可能出现以pytest执行的情况
 这里可以通过Files->Settings->tools->Python Integrated Tools->Testing实现
+![Image text](https://github.com/Kaeless/img-storage/blob/main/Pycharm-SetPytest.PNG)
